@@ -21,3 +21,15 @@ El propósito de Canny era descubrir el algoritmo óptimo de detección de borde
     * Buena localización- los bordes de marca deben estar lo más cerca posible del borde de la imagen real.
     * Respuesta mínima - El borde de una imagen sólo debe ser marcado una vez, y siempre que sea posible, el ruido de la imagen no debe         crear falsos bordes.
 Para satisfacer estos requisitos Canny utiliza el cálculo de variaciones - una técnica que encuentra la función que optimiza un funcional indicado. La función óptima en el algoritmo de Canny es descrito por la suma de cuatro términos exponenciales, pero se puede aproximar por la primera derivada de una gaussiana.
+
+### Prueba en Imagen
+
+#### Tiempos en imagenes
+
+[TIEMPOS]: (https://github.com/oswilehi/LinearAlgebraProject/blob/master/Imagenes%20README/Tiempos_Imagenes.PNG)
+
+#### Tiempo en video
+
+[TIEMPO]: (https://github.com/oswilehi/LinearAlgebraProject/blob/master/Imagenes%20README/Tiempo_video.PNG)
+
+
