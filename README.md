@@ -27,11 +27,11 @@ Para satisfacer estos requisitos Canny utiliza el cálculo de variaciones - una 
 #### Tiempos en imagenes
 
 TIEMPOS:
-![alt text]: (https://github.com/oswilehi/LinearAlgebraProject/blob/master/Imagenes%20README/Tiempos_Imagenes.PNG "Imagen de perro")
+![alt text](https://github.com/oswilehi/LinearAlgebraProject/blob/master/Imagenes%20README/Tiempos_Imagenes.PNG "Imagen de perro")
 
 #### Tiempo en video
 
 TIEMPO:
-![alt text]: (https://github.com/oswilehi/LinearAlgebraProject/blob/master/Imagenes%20README/Tiempo_video.PNG "Video de Batman")
+![alt text](https://github.com/oswilehi/LinearAlgebraProject/blob/master/Imagenes%20README/Tiempo_video.PNG "Video de Batman")
 
 
